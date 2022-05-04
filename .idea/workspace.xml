@@ -39,16 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/p2112646/.conda/envs/tensor2/Scripts/conda.exe",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/p2112646/.conda/envs/tensor2/Scripts/conda.exe&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\p2112646\PycharmProjects\DAAA-Y2-S1\AIML\CA1\Data" />
@@ -142,7 +142,9 @@
       <workItem from="1650358491742" duration="297000" />
       <workItem from="1650416733907" duration="3582000" />
       <workItem from="1650957180571" duration="731000" />
-      <workItem from="1651023682533" duration="6365000" />
+      <workItem from="1651023682533" duration="6759000" />
+      <workItem from="1651626646557" duration="2405000" />
+      <workItem from="1651631199677" duration="4066000" />
     </task>
     <servers />
   </component>
