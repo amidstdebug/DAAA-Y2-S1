@@ -39,11 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\p2112646\PycharmProjects\DAAA-Y2-S1\AIML\CA1\Data" />
@@ -148,6 +149,8 @@
       <workItem from="1652156190922" duration="9866000" />
       <workItem from="1652166780498" duration="5971000" />
       <workItem from="1652328537182" duration="23000" />
+      <workItem from="1652773596613" duration="86000" />
+      <workItem from="1652773702851" duration="6898000" />
     </task>
     <servers />
   </component>
