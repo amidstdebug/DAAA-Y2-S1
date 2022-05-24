@@ -7,6 +7,7 @@ M
 AIML/CA1/Part A/meta data.txt,b\a\ba76bb42f9a6841a49f363dc56b68d96e7ffa516
 P
  AIML/CA1/Part A/cleaned_data.csv,5\4\54aba23567da5e0e30f75845f67b9523fe0b5427
+<<<<<<< Updated upstream
 [
 +AIML/CA1/Data/ST1511-CA1-data/meta data.txt,0\c\0c53c450e87cc917304602d9d67b28443b697687
 O
@@ -45,5 +46,7 @@ F
 DENG/CA1/SQLQuery1.sql,a\2\a2a264957a7472ee230851a7029281ea7e1bcbae
 L
 AIML/CA1/Part A/Part A.ipynb,b\1\b168876df8841f3bdf9d21f50c145cd86670c01d
+=======
+>>>>>>> Stashed changes
 Q
 !AIML/CA1/Part A/cleaned_data1.csv,7\f\7f9df9dfd1503fd67d11e56f61283789b7ca45f7
