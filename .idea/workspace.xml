@@ -41,16 +41,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="sqlserver" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="database.data.extractors.current.export.id" value="Comma-separated (CSV)_id" />
-    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Maths/Chapter 5" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Maths\Chapter 5" />
@@ -228,11 +224,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DAAA_Y2_S1$_4__Hidden_Markov_Models.coverage" NAME="(4) Hidden Markov Models Coverage Results" MODIFIED="1650422408714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow" />
-    <SUITE FILE_PATH="coverage/Part_A_ipynb$tut.coverage" NAME="tut Coverage Results" MODIFIED="1652941902892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
-    <SUITE FILE_PATH="coverage/DAAA_Y2_S1$_5__Neural_Networks.coverage" NAME="(5) Neural Networks Coverage Results" MODIFIED="1650424739896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow" />
-    <SUITE FILE_PATH="coverage/DAAA_Y2_S1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1650418809220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIML" />
     <SUITE FILE_PATH="coverage/Part_A_ipynb$multiplication.coverage" NAME="multiplication Coverage Results" MODIFIED="1652941001372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
+    <SUITE FILE_PATH="coverage/DAAA_Y2_S1$_4__Hidden_Markov_Models.coverage" NAME="(4) Hidden Markov Models Coverage Results" MODIFIED="1650422408714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow" />
     <SUITE FILE_PATH="coverage/Part_A_ipynb$5_5_example_1.coverage" NAME="5.5 example 1 Coverage Results" MODIFIED="1653211202822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
+    <SUITE FILE_PATH="coverage/Part_A_ipynb$tut.coverage" NAME="tut Coverage Results" MODIFIED="1652941902892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
+    <SUITE FILE_PATH="coverage/DAAA_Y2_S1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1650418809220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIML" />
+    <SUITE FILE_PATH="coverage/DAAA_Y2_S1$_5__Neural_Networks.coverage" NAME="(5) Neural Networks Coverage Results" MODIFIED="1650424739896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow" />
   </component>
 </project>
