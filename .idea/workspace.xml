@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="JavaScript File" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -60,11 +60,11 @@
       <recent name="C:\Users\p2112646\PycharmProjects\DAAA-Y2-S1\AIML\CA1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tut">
+  <component name="RunManager" selected="Python.5.5 example 1.ipynb">
     <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/AIML/CA1/Part A/test.js" working-dir="$PROJECT_DIR$/AIML/CA1/Part A">
       <method v="2" />
     </configuration>
-    <configuration name="(4) Hidden Markov Models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.5 example 1.ipynb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DAAA-Y2-S1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,15 +72,15 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maths/Chapter 5" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow/(4) Hidden Markov Models.py" />
+      <option name="SCRIPT_NAME" value="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Maths\Chapter 5\5.5 example 1.ipynb" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -115,7 +115,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\justi\anaconda3\envs\tensor2\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -123,14 +123,14 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiplication.ipynb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DAAA-Y2-S1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +143,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maths/Chapter 5/multiplication.py" />
+      <option name="SCRIPT_NAME" value="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Maths\Chapter 5\multiplication.ipynb" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,6 +156,9 @@
       <module name="DAAA-Y2-S1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Maths/Chapter 5" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -171,13 +174,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.test.js" />
+      <item itemvalue="Python.(5) Neural Networks" />
+      <item itemvalue="Python.tut" />
+      <item itemvalue="Python.multiplication.ipynb" />
+      <item itemvalue="Python.5.5 example 1.ipynb" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5.5 example 1.ipynb" />
         <item itemvalue="Python.tut" />
-        <item itemvalue="Python.multiplication" />
+        <item itemvalue="Python.multiplication.ipynb" />
         <item itemvalue="Node.js.test.js" />
         <item itemvalue="Python.(5) Neural Networks" />
-        <item itemvalue="Python.(4) Hidden Markov Models" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +217,10 @@
       <workItem from="1652858479230" duration="2341000" />
       <workItem from="1652931626662" duration="3320000" />
       <workItem from="1652940440029" duration="2918000" />
+      <workItem from="1653210954202" duration="3466000" />
+      <workItem from="1653273773075" duration="6643000" />
+      <workItem from="1653281378764" duration="917000" />
+      <workItem from="1653291509048" duration="1332000" />
     </task>
     <servers />
   </component>
@@ -219,5 +233,6 @@
     <SUITE FILE_PATH="coverage/DAAA_Y2_S1$_5__Neural_Networks.coverage" NAME="(5) Neural Networks Coverage Results" MODIFIED="1650424739896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/machine-learning-main/machine-learning-main/Tensorflow" />
     <SUITE FILE_PATH="coverage/DAAA_Y2_S1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1650418809220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AIML" />
     <SUITE FILE_PATH="coverage/Part_A_ipynb$multiplication.coverage" NAME="multiplication Coverage Results" MODIFIED="1652941001372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
+    <SUITE FILE_PATH="coverage/Part_A_ipynb$5_5_example_1.coverage" NAME="5.5 example 1 Coverage Results" MODIFIED="1653211202822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
   </component>
 </project>

@@ -7,8 +7,6 @@ M
 AIML/CA1/Part A/meta data.txt,b\a\ba76bb42f9a6841a49f363dc56b68d96e7ffa516
 P
  AIML/CA1/Part A/cleaned_data.csv,5\4\54aba23567da5e0e30f75845f67b9523fe0b5427
-Q
-!AIML/CA1/Part A/cleaned_data1.csv,7\f\7f9df9dfd1503fd67d11e56f61283789b7ca45f7
 [
 +AIML/CA1/Data/ST1511-CA1-data/meta data.txt,0\c\0c53c450e87cc917304602d9d67b28443b697687
 O
@@ -31,17 +29,21 @@ H
 DENG/Practical/C3/Q5.sql,d\4\d482f0912f659905d5a75e4aaf91bd6a91658fd3
 H
 DENG/Practical/C3/Q6.sql,c\4\c42b955f1e2d3a52f5543b90297d4eb784662396
-Q
-!Maths/Chapter 5/multiplication.py,2\6\268aa5e8a91ca1a17c041f2916cc0a4508c6142c
 H
 DENG/Practical/C3/Q8.sql,1\1\11af3c5ae9375904c13132d5675d2e0abe3be487
 K
 Maths/Chapter 5/Tut51Q3.csv,b\7\b728dc7913544322985c017988e75872d38d35d2
 F
 Maths/Chapter 5/tut.py,6\2\626aaedac5df4f7fa26dbd9922d81dd277c8f36a
-P
- Maths/Chapter 5/illustrateEg.csv,4\c\4c1e459c9369a649be3e070639a5088ff687d858
+f
+6Maths/Chapter 5/Practical_5b_Example1_Covariance.ipynb,f\d\fd7aaf5d80071826b8b5d537279d13bc8c73b666
+N
+Maths/Chapter 5/5.5 exam.ipynb,3\f\3f63b1e1f3f38318dd4afd10d5762966026ef6a4
 a
 1Maths/Chapter 5/Practical_5a_Bivariate_Date.ipynb,5\7\5706903e84c4fc8f2f6455b68c5270f13eacb2da
+F
+DENG/CA1/SQLQuery1.sql,a\2\a2a264957a7472ee230851a7029281ea7e1bcbae
 L
 AIML/CA1/Part A/Part A.ipynb,b\1\b168876df8841f3bdf9d21f50c145cd86670c01d
+Q
+!AIML/CA1/Part A/cleaned_data1.csv,7\f\7f9df9dfd1503fd67d11e56f61283789b7ca45f7
