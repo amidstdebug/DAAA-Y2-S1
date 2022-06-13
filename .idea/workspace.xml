@@ -7,28 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="new readme">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DAAA-Y2-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DAAA-Y2-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a2a264957a7472ee230851a7029281ea7e1bcbae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba76bb42f9a6841a49f363dc56b68d96e7ffa516" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd16f0d89adedd12cd5c52d8fb168a8aee72ad24" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/Part A.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/cleaned_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/cleaned_data1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/CA1/ER Diagram.erd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/CA1/SQLQuery1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/CA1/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/Practical/C3/Q2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/DENG/Practical/C3/Q2.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maths/Chapter 5/5.5 exam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Maths/Chapter 5/5.5 exam.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maths/test1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIP/CA1/CA MID POINT (INDIVIDUAL).docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SIP/CA1/CA1 RJ TEMPLATE (1).docx" beforeDir="false" afterPath="$PROJECT_DIR$/SIP/CA1/CA1 RJ TEMPLATE (1).docx" afterDir="false" />
-    </list>
+    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="no clue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +39,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/GeekOut/2022-geekout-gds" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GeekOut/2022-geekout-gds" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="x3bla" />
+        <option name="repository" value="2022-geekout-gds" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b16db3dc-e2bc-4026-9198-a1488a393155" />
+        <option name="url" value="https://github.com/x3bla/2022-geekout-gds.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -74,8 +73,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="repository&#10;directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
@@ -266,7 +268,9 @@
       <workItem from="1654852635358" duration="25585000" />
       <workItem from="1654959598891" duration="20737000" />
       <workItem from="1655083682406" duration="8050000" />
-      <workItem from="1655098451080" duration="399000" />
+      <workItem from="1655098451080" duration="3691000" />
+      <workItem from="1655102914172" duration="1064000" />
+      <workItem from="1655104089824" duration="1311000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -275,7 +279,63 @@
       <option name="project" value="LOCAL" />
       <updated>1655098844539</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new aiml stuff">
+      <created>1655099093901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655099093901</updated>
+    </task>
+    <task id="LOCAL-00003" summary="created new directory for hobbies">
+      <created>1655099178817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655099178817</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added to justinhobbies.txt">
+      <created>1655100108248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655100108248</updated>
+    </task>
+    <task id="LOCAL-00005" summary="amended to justinhobbies.txt">
+      <created>1655100706227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655100706227</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added">
+      <created>1655104957873</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655104957873</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added">
+      <created>1655105138441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655105138441</updated>
+    </task>
+    <task id="LOCAL-00008" summary="no clue">
+      <created>1655105277598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655105277598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="no clue">
+      <created>1655105287321</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655105287321</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,15 +346,56 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Justin" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="158" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="166" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="28" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="new readme" />
+    <MESSAGE value="added new aiml stuff" />
+    <MESSAGE value="created new directory for hobbies" />
+    <MESSAGE value="added to justinhobbies.txt" />
+    <MESSAGE value="amended to justinhobbies.txt" />
+    <MESSAGE value="added" />
+    <MESSAGE value="no clue" />
+    <option name="LAST_COMMIT_MESSAGE" value="no clue" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Part_A_ipynb$multiplication.coverage" NAME="multiplication Coverage Results" MODIFIED="1652941001372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />

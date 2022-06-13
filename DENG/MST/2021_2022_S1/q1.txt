@@ -1,0 +1,3 @@
+a) BookDetail(ISBN, Title, NoP, PubID, PubName, PubAddr,{AuthorID, AuthorName})
+b) BookDetail(ISBN, Title, NoP, PubID, PubName, PubAddr,AuthorID, AuthorName)
+c) BookDetail(ISBN,

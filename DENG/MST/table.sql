@@ -1,0 +1,3 @@
+USE Royal_Poly_DB;
+
+SELECT * FROM TABLE_NAME;
