@@ -1,4 +1,4 @@
 USE Royal_Poly_DB;
 
-SELECT Citizenship FROM staff_relation
-ORDER BY 'Citizenship' DESC
+SELECT DATEDIFF(year,DateOFBirth,GETDATE()) AS 'Age' FROM TABLE_NAME;
+SELECT * FROM TABLE_NAME;
