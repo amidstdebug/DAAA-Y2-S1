@@ -7,7 +7,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="no clue" />
+    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="no clue">
+      <change afterPath="$PROJECT_DIR$/AIML/CA1/Part A/Part A.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AIML/CA1/Part B/Part B.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AIML/CA1/Part B/df.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/038567cdd0109cb3b67354d962e9c0e2c41e1d21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84171ed82656a71ffe6b01782ed7ba06a9bb1413" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/9317bf7f395ce1317f1f6b4301a98a3987f4d2c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1f41f7f996f3c06627963acb2f312b9f5811040" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d895197f4391a418de8bba512c74bc6dc785bfea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/part-a-final (1).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part B/part-b.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,10 +56,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="main" />
         <entry key="$PROJECT_DIR$/GeekOut/2022-geekout-gds" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GeekOut/2022-geekout-gds" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubPullRequestsUISettings">
@@ -80,18 +96,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AIML/CA1/Part B" />
     <property name="service.view.auto.scroll.to.source" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="sql.rename.search.for.storage.occurrences" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part B" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part A" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\DENG\ST1501-DAAAFT2B04-2112646-Justin Wong\queries\query images" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\DENG\CA1\data" />
-      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\DENG\CA1\data done" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part A" />
@@ -271,6 +287,12 @@
       <workItem from="1655098451080" duration="3691000" />
       <workItem from="1655102914172" duration="1064000" />
       <workItem from="1655104089824" duration="1311000" />
+      <workItem from="1655108485638" duration="1432000" />
+      <workItem from="1655171032806" duration="11162000" />
+      <workItem from="1655189356848" duration="551000" />
+      <workItem from="1655190035410" duration="34258000" />
+      <workItem from="1655232289879" duration="712000" />
+      <workItem from="1655273075818" duration="1589000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -352,7 +374,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/Justin" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -388,6 +410,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/GeekOut/2022-geekout-gds" />
+    </ignored-roots>
     <MESSAGE value="new readme" />
     <MESSAGE value="added new aiml stuff" />
     <MESSAGE value="created new directory for hobbies" />
