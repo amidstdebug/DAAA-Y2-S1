@@ -7,21 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="no clue">
-      <change afterPath="$PROJECT_DIR$/AIML/CA1/Part A/Part A.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA1/Part B/Part B.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA1/Part B/df.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/038567cdd0109cb3b67354d962e9c0e2c41e1d21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84171ed82656a71ffe6b01782ed7ba06a9bb1413" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/9317bf7f395ce1317f1f6b4301a98a3987f4d2c2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1f41f7f996f3c06627963acb2f312b9f5811040" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d895197f4391a418de8bba512c74bc6dc785bfea" beforeDir="false" />
+    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="finalised part A with outputs and amended part B; still doing part B">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/part-a-final (1).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part B/part-b.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part A/Part A.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA1/Part A/Part A.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA1/Part B/Part B.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA1/Part B/Part B.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +282,8 @@
       <workItem from="1655189356848" duration="551000" />
       <workItem from="1655190035410" duration="34258000" />
       <workItem from="1655232289879" duration="712000" />
-      <workItem from="1655273075818" duration="1589000" />
+      <workItem from="1655273075818" duration="10191000" />
+      <workItem from="1655345030695" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -357,7 +348,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655105287321</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finalised part A with outputs and amended part B; still doing part B">
+      <created>1655276500218</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655276500218</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finalised part A with outputs and amended part B; still doing part B">
+      <created>1655276720256</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655276720256</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -420,7 +425,8 @@
     <MESSAGE value="amended to justinhobbies.txt" />
     <MESSAGE value="added" />
     <MESSAGE value="no clue" />
-    <option name="LAST_COMMIT_MESSAGE" value="no clue" />
+    <MESSAGE value="finalised part A with outputs and amended part B; still doing part B" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalised part A with outputs and amended part B; still doing part B" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Part_A_ipynb$multiplication.coverage" NAME="multiplication Coverage Results" MODIFIED="1652941001372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
