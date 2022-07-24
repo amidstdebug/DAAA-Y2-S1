@@ -7,73 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="AIML Done">
-      <change afterPath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA2/Part_A/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA2/Part_B/part_b.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA2/data/sample_submission.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA2/data/test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AIML/CA2/data/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/data/create_database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/data/insert_database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/DENG_CA1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ER Assistant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ER Diagram.erd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ERD Big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ERD Small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/Submission Template.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/demo.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q3.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q6.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q2i.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q2ii.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA1/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/Chapter 6/Practical_6b_Numerical_Differentiation.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/Chapter 6/example 14.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/p2112646.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/p2112646/food_nutrition.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/p2112646/p2212646.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/p2112646/question_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/p2112646/question_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maths/p2112646/wine.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DAAA-Y2-S1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DAAA-Y2-S1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb3d764355b1879309c00e0da25a9866e8a468be" beforeDir="false" />
+    <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="fixed the fucking formatting">
+      <change afterPath="$PROJECT_DIR$/DENG/CA2/Queries/ca1_comb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DENG/CA2/Queries/q1.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/AIML Classification.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA1/AIML Classification.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA1/AIML Regression.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA1/AIML Regression.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/data/create_database.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/data/insert_database.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/DENG_CA1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ER Assistant.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ER Diagram.erd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ERD Big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/ER Diagrams/ERD Small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/documents/Submission Template.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q1.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q2.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q3.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q4.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q5.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/q6.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q2i.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q2ii.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DENG/ST1501-DAAAFT2B04-2112646-Justin Wong/queries/query images/q6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Psych/CA3/p2112646_CA3.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Psych/CA3/p2112646_CA3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,10 +49,11 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" value="Justin" />
         <entry key="$PROJECT_DIR$/GeekOut/2022-geekout-gds" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -126,14 +67,14 @@
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
       <RepoCoordinatesHolder>
-        <option name="owner" value="x3bla" />
-        <option name="repository" value="2022-geekout-gds" />
+        <option name="owner" value="zhuofan-16" />
+        <option name="repository" value="Bicycle_Store_SQL" />
       </RepoCoordinatesHolder>
     </option>
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="b16db3dc-e2bc-4026-9198-a1488a393155" />
-        <option name="url" value="https://github.com/x3bla/2022-geekout-gds.git" />
+        <option name="url" value="https://github.com/zhuofan-16/Bicycle_Store_SQL.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -159,7 +100,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="grid.search.filter.rows" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Maths/Chapter 6" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.General" />
+    <property name="sql.codeStylePanel.last.previewDialect" value="Microsoft SQL Server" />
     <property name="sql.rename.search.for.storage.occurrences" value="true" />
   </component>
   <component name="RecentsManager">
@@ -284,11 +226,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Database Script.q1.sql" />
         <item itemvalue="Python.tut" />
         <item itemvalue="Python.multiplication.ipynb" />
         <item itemvalue="Python.5.5 example 1.ipynb" />
         <item itemvalue="Node.js.test.js" />
+        <item itemvalue="Database Script.q1.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +322,19 @@
       <workItem from="1657513818976" duration="2329000" />
       <workItem from="1657522133542" duration="3231000" />
       <workItem from="1657599403433" duration="1868000" />
-      <workItem from="1657610172586" duration="5652000" />
+      <workItem from="1657610172586" duration="6021000" />
+      <workItem from="1657631790728" duration="105000" />
+      <workItem from="1657677072748" duration="6020000" />
+      <workItem from="1657783512371" duration="4451000" />
+      <workItem from="1658035700522" duration="1173000" />
+      <workItem from="1658123417260" duration="2609000" />
+      <workItem from="1658157461342" duration="1173000" />
+      <workItem from="1658215024462" duration="5719000" />
+      <workItem from="1658311038876" duration="652000" />
+      <workItem from="1658391575828" duration="5002000" />
+      <workItem from="1658465984703" duration="3212000" />
+      <workItem from="1658474350186" duration="3531000" />
+      <workItem from="1658659645605" duration="2940000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -473,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655440759469</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="AIML Done">
+      <created>1658477892489</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658477892489</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixed the fucking formatting">
+      <created>1658660439434</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658660439434</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +458,15 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" />
+                        <option value="$PROJECT_DIR$" />
                       </list>
                     </value>
                   </entry>
@@ -518,6 +494,11 @@
                   <option value="master" />
                 </option>
               </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
             </list>
           </value>
         </entry>
@@ -539,7 +520,8 @@
     <MESSAGE value="finalised part A with outputs and amended part B; still doing part B" />
     <MESSAGE value="finalised part A &amp; Part B with outputs" />
     <MESSAGE value="AIML Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="AIML Done" />
+    <MESSAGE value="fixed the fucking formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the fucking formatting" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Part_A_ipynb$multiplication.coverage" NAME="multiplication Coverage Results" MODIFIED="1652941001372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Maths/Chapter 5" />
