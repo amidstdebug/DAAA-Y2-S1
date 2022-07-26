@@ -8,8 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/dfbc3188702648b806dd5e07a5a0c9fe92bdaa60" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIML/CA2/Part_A/test.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       </map>
     </option>
     <option name="RECENT_COMMON_BRANCH" value="Justin" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DENG/CA2/Main Branch/Bicycle_Store_SQL" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -334,6 +337,7 @@
       <workItem from="1658474350186" duration="3531000" />
       <workItem from="1658659645605" duration="5197000" />
       <workItem from="1658719349938" duration="659000" />
+      <workItem from="1658820487715" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -461,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658720414246</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="commit">
+      <created>1658721016943</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658721016943</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,14 +489,14 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/Justin" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
                   <entry key="roots">
                     <value>
                       <list>
-                        <option value="$PROJECT_DIR$/DENG/CA2/Main Branch/Bicycle_Store_SQL" />
+                        <option value="$PROJECT_DIR$" />
                       </list>
                     </value>
                   </entry>

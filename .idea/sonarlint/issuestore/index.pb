@@ -13,8 +13,6 @@ L
 AIML/CA1/Part B/part-b.ipynb,1\9\19e46c8b3dad1b8e19274a0d5e6596b36fa95664
 A
 Maths/notes.ipynb,5\c\5c8b0fe6605ef9ce3fc85d1672ce6e23aa8ca855
-G
-AIML/CA2/Part_A/test.py,d\f\dfbc3188702648b806dd5e07a5a0c9fe92bdaa60
 P
  Maths/Chapter 6/example 14.ipynb,3\3\33a241cdbd173127bf03d441a4f0ef18f3919e69
 l
