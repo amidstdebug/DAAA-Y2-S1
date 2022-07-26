@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/DENG/CA2/Main Branch/Bicycle_Store_SQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GeekOut/2022-geekout-gds/2022-geekout-gds" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GeekOut/2022-geekout-gds/Bicycle_Store_SQL" vcs="Git" />
   </component>
 </project>
