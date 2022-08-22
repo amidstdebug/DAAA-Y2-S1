@@ -8,12 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="fixed the fucking formatting">
-      <change afterPath="$PROJECT_DIR$/DENG/CA2/Queries/ca1_comb.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DENG/CA2/Queries/q1.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Engineering/CA2/Main Branch/Bicycle_Store_SQL" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AIML/CA2/Part_A/part_a.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Engineering/CA2/Individual/mongo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Data Engineering/CA2/Individual/mongo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
         <entry key="$PROJECT_DIR$/GeekOut/2022-geekout-gds" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -100,7 +98,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="grid.search.filter.rows" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Maths/Chapter 6" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.General" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="sql.codeStylePanel.last.previewDialect" value="Microsoft SQL Server" />
     <property name="sql.rename.search.for.storage.occurrences" value="true" />
   </component>
@@ -335,6 +333,7 @@
       <workItem from="1658465984703" duration="3212000" />
       <workItem from="1658474350186" duration="3531000" />
       <workItem from="1658659645605" duration="2940000" />
+      <workItem from="1661170430982" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -458,7 +457,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="Justin" />
                       </list>
                     </value>
                   </entry>
@@ -509,6 +508,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/GeekOut/2022-geekout-gds" />
+      <path value="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" />
+      <path value="$PROJECT_DIR$/GeekOut/2022-geekout-gds/2022-geekout-gds" />
+      <path value="$PROJECT_DIR$/GeekOut/2022-geekout-gds/Bicycle_Store_SQL" />
     </ignored-roots>
     <MESSAGE value="new readme" />
     <MESSAGE value="added new aiml stuff" />
