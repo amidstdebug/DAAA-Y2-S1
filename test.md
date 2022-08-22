@@ -1,5 +1,5 @@
-1. [Machine Failure Prediction Model]
-2. [PC Price Prediction Model]
+1. [Machine Failure Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/Machine%20Failure%20Prediction%20Model)
+2. [PC Price Prediction Model](https://github.com/amidstdebug/DAAA-Y2-S1/tree/main/AI%20%26%20Machine%20Learning/CA1/PC%20Price%20Prediction%20Model)
 3. [Air Pollution Prediction Model]
 4. [Employee Profiling Model]
 5. [Portfolio Website](https://github.com/amidstdebug/HTML-CSS-CA2)
