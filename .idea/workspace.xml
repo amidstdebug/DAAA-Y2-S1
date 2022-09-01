@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5ff13c3-4400-45ec-ac9a-969255b773c8" name="Changes" comment="fixed the fucking formatting">
-      <change beforePath="$PROJECT_DIR$/Data Engineering/CA2/Main Branch/Bicycle_Store_SQL/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maths/CA2/Practical_9b_Gradient_Descent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Maths/CA2/Practical_9b_Gradient_Descent.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
         <option value="JavaScript File" />
         <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="HTTP Request" />
       </list>
     </option>
   </component>
@@ -48,7 +49,7 @@
         <entry key="$PROJECT_DIR$/GeekOut/2022-geekout-gds" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Data Engineering/CA2/Main Branch/Bicycle_Store_SQL" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -58,6 +59,13 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="recentNewPullRequestHead">
@@ -94,25 +102,25 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="grid.search.filter.rows" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Data Engineering/CA2/Main Branch" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="sql.codeStylePanel.last.previewDialect" value="Microsoft SQL Server" />
     <property name="sql.rename.search.for.storage.occurrences" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Data Engineering\CA2\Main Branch" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Maths\Chapter 6" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Maths\CA1" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part B" />
-      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part A" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Psychology" />
+      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Psychology\CA3" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\Maths" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1" />
       <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part B" />
-      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\AIML\CA1\Part A" />
-      <recent name="D:\Coding\DAAA-Y2-S1\DAAA-Y2-S1\DENG\CA1\data" />
     </key>
   </component>
   <component name="RunManager" selected="Database Script.q1.sql">
@@ -330,7 +338,7 @@
       <workItem from="1658465984703" duration="3212000" />
       <workItem from="1658474350186" duration="3531000" />
       <workItem from="1658659645605" duration="2940000" />
-      <workItem from="1661170430982" duration="1043000" />
+      <workItem from="1661170430982" duration="4837000" />
     </task>
     <task id="LOCAL-00001" summary="new readme">
       <created>1655098844539</created>
@@ -454,7 +462,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Justin" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -508,6 +516,7 @@
       <path value="$PROJECT_DIR$/DENG/CA2/Query/Bicycle_Store_SQL" />
       <path value="$PROJECT_DIR$/GeekOut/2022-geekout-gds/2022-geekout-gds" />
       <path value="$PROJECT_DIR$/GeekOut/2022-geekout-gds/Bicycle_Store_SQL" />
+      <path value="$PROJECT_DIR$/Data Engineering/CA2/Main Branch/Bicycle_Store_SQL" />
     </ignored-roots>
     <MESSAGE value="new readme" />
     <MESSAGE value="added new aiml stuff" />

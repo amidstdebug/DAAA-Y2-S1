@@ -23,3 +23,12 @@ L
 AIML/CA1/Part A/part-a.ipynb,c\c\cc796c8deb7820ac6baa6a8a48f7b7d1d7eae9f5
 L
 AIML/CA1/Part B/Part B.ipynb,2\d\2db1dc0ca4cb3471c9a709e6a88a19b2fe4aa6bd
+:
+
+LICENSE.md,4\a\4a8486805915245bbbe2e3c8c1a9d680c6843a82
+X
+(Data Engineering/CA2/Individual/mongo.js,1\3\13ccea8f45bcd471348b66ca9132d6e3df250691
+ƒ
+SAI & Machine Learning/CA1/PC Price Prediction Model/PC Price Prediction Model.ipynb,9\b\9b8dc1d110bcf5c4e69f4484be32c387a5bb59aa
+]
+-Maths/CA2/Practical_9b_Gradient_Descent.ipynb,a\d\add31b252a2558a30bc2b352ed92b7aa8eab9a23

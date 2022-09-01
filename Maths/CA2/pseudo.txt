@@ -1,0 +1,14 @@
+initialise random b value
+
+calculate MSE with B value using E(b)
+
+update B value using E'(B)
+
+calculate MSE with new B value using E(B)
+
+check if abs(MSE_new - MSE_old) < epsilon
+
+if true:
+    stop
+else:
+    continue
